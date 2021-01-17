@@ -13,4 +13,11 @@ graph TD;
 
 ## TEST 2
 
-lalalal
+```mermaid
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
